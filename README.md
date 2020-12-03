@@ -1,4 +1,4 @@
-# Project 3: WasteNet
+# Project 3: WasteNet - 1st Place at Vancouver Datajam
 
 ## Background
 
